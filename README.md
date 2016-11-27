@@ -1,0 +1,2 @@
+# SWBeaconFrameworkSample
+BeaconFramework的範例程式碼
