@@ -1,0 +1,10 @@
+framework module SWBeaconFramework {
+  umbrella header "SWBeaconFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module SWBeaconFramework.Swift {
+    header "SWBeaconFramework-Swift.h"
+}
